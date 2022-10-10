@@ -4,3 +4,5 @@
 # IDEs and editors
 /.idea
 .vscode/*
+
+.ipynb_checkpoints
