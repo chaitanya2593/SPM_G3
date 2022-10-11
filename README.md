@@ -18,11 +18,11 @@
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#Usage">Code Usage</a></li>
-    <li><a href="#DATA">Data Files</a></li>
+    <li><a href="#code-usage">Code Usage</a></li>
+    <li><a href="#data-files">Data Files</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Reference</a></li>    
+    <li><a href="#reference">Reference</a></li>    
 
     
   </ol>
