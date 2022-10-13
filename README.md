@@ -1,4 +1,4 @@
-# Analyzing company performance
+# Restructuring Strategy Recommendations
 
 
 <!-- TABLE OF CONTENTS -->
