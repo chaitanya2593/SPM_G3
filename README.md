@@ -33,8 +33,9 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-!!!we have to add a project screen short!!!
-[![Product Name Screen Shot][product-screenshot]](https://www.frankfurt-school.de/en/home.html)
+![Product Name Screen Shot](https://github.com/chaitanya2593/SPM_G3/blob/main/charah_overview.png)
+
+
 
 We are Frankfurt School (FS) students who are currently pursing Masters in Applied Data Science. As part of our Strategy and 
 Performance Management we are doing firm benchmark analysis. Basically we are extracting the key information form the 10-k 
@@ -48,6 +49,10 @@ possible recommendations to the firm.
 ### Built With
 
 * Python
+  * Data science packages 
+  * NLTK
+  * Plotly
+  * Selenium 
 * Google Colab
 
 
@@ -90,7 +95,7 @@ In individual teh required input files are already mentioned in the code comment
 - 1_data_exploration.ipynb 
   - There are close to 13000 company 10-k fillings and since our objective is to perform analysis for one file we have 
    collected the 10-k fillings for target company and also companies which are in the same domain (Eg Energy sector)   
-- 2_Extract_10_K_data.ipynb
+- 2_extract_10_K_data.ipynb
   - Now we have extracted the 10-k fillings for the selected companies from 2011-2021 
 - 3_data_cleaning_sample.ipynb
   - The text files are basically copy of the whole 10-k fillings and the data further preprocessed. After preprocessing we have extracted the frequency counts. 
@@ -100,6 +105,9 @@ In individual teh required input files are already mentioned in the code comment
   - Finally we have joined the output files from the notebook number 4 & 5. Later identified the restructuring scenarios. 
 - 6_classify_company.ipynb
   - In this step we have classified the companies into 4 buckets and tried to identify the significance of the restructuring. 
+- 7_charah_reviews_analysis.ipynb
+  - Extracting the company Charah employee review and perform analysis to understand the employee sentiment. 
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- DATA -->
