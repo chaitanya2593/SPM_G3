@@ -71,7 +71,7 @@ required data science packages preinstalled and provided the pip (python package
 The user should have an google account and access to the google drive as well.
 
 - Create shortcut onto your drive for below drive links
-* Drive link for teh 10-k fillings from Bill McDonald
+* Drive link for the 10-k fillings from Bill McDonald
   ```sh
   https://drive.google.com/drive/folders/1tZP9A0hrAj8ptNP3VE9weYZ3WDn9jHic 
   ```
@@ -90,7 +90,7 @@ You can simply go to Google Colab and you can choose 'GitHub' on the box which y
 ## Code Usage  
 
 Overall end-to-end process has been divided into 6 steps. The execution of the files should also be in the same order.
-In individual teh required input files are already mentioned in the code comments.
+In individual the required input files are already mentioned in the code comments.
 
 - 1_data_exploration.ipynb 
   - There are close to 13000 company 10-k fillings and since our objective is to perform analysis for one file we have 
@@ -112,7 +112,12 @@ In individual teh required input files are already mentioned in the code comment
 
 <!-- DATA -->
 ## Data Files
-# To be filled
+
+The url for the data files used for the project.
+```sh
+  https://drive.google.com/drive/u/0/folders/1X4UdGsQiHVWSr63FRiz8rwOuWW5Ua8uI 
+  ```
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LICENSE -->
@@ -126,6 +131,8 @@ Distributed under the GNU License. See `LICENSE.txt` for more information.
 
 <!-- CONTACT -->
 ## Contact
+
+Students from Frankfurt school - MADS class of 2023.
 
 1. Gezhi Cheng, 
 2. Haowei Lee, 
